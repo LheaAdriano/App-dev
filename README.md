@@ -1,10 +1,10 @@
-# 🎬 My Ultimate Media Vault
+# My Ultimate Media Vault
 
 An curated overview of my absolute favorite series and movies.
 
 ---
 
-## 📺 Top-Tier Series
+##  Top-Tier Series
 
 ### 1. Taxi Driver
 > "Don't die. Get your revenge. We will do it for you."
@@ -32,7 +32,7 @@ A fantastic story that explores the chaotic, glittering world of celebrity life 
 
 ---
 
-## 🍿 Must-Watch Movies
+## Must-Watch Movies
 
 Here is how my favorite movies break down by genre, vibe, and priority rankings:
 
@@ -45,12 +45,12 @@ Here is how my favorite movies break down by genre, vibe, and priority rankings:
 | **The Special Memory** | Nostalgic Melodrama | `Deeply Moving` |
 | **I'mPerfect** | Inspiring Youth Drama | `Self-Acceptance` |
 
-### 💡 Spotlight: *I'mPerfect*
+### Spotlight: *I'mPerfect*
 This movie teaches us that we do not have to be flawless. Our little quirks are exactly what make us uniquely ourselves. 
 
 ---
 
-## 🛠️ Metadata & References
+## Metadata & References
 
 For complete casting lists, reviews, and trailer clips for all of these titles, you can check out the official [MyDramaList Website](https://mydramalist.com) [^1].
 
